@@ -33,3 +33,8 @@ Cette analyse permettra d'identifier les produits les plus populaires et de ajus
 - Comment évolue le panier moyen par mois, par détaillant, par heure ?
 
 Cette analyse permettra d'identifier les détaillants les plus performants en termes de ventes, de satisfaction client et de respect des délais de livraison. Les résultats obtenus pourront être utilisés pour prendre des décisions stratégiques, telles que la sélection des détaillants les plus performants ou la mise en place de mesures correctives pour les détaillants en difficulté.
+
+
+Durée du projet : 3 jours
+
+Cliquez sur ce lien pour voir le tableau de bord de Fashion BP : https://public.tableau.com/app/profile/oy4372/viz/DashboardFashionBP/Tableaudebord1
